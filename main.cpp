@@ -268,7 +268,7 @@ void game()
 	cout << output23 << endl;//Ashley
 	cin >> answer;
 
-
+	cout << "Ne znaem zashto ne raboti" << endl;//Dontwork
 
 
 	}//end else if
